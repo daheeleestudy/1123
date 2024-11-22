@@ -9,3 +9,4 @@ numpy
 scikit-learn
 nest-asyncio
 pyngrok
+Brotli==1.0.9  # 예시로 추가
