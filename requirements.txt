@@ -1,7 +1,7 @@
 
 fastapi
 uvicorn
-sentence-transformers
+torch-cpu
 rank-bm25
 pandas
 chardet
